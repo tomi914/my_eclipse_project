@@ -1,2 +1,2 @@
 # my_eclipse_project
-Proyectovich eclipse
+TP9 EJ6
